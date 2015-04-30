@@ -39,7 +39,7 @@ public class Defines {
 	public final static int GRENADE_MINSPEED = 400;
 	public final static int GRENADE_MAXSPEED = 800;
 
-	// -----------------
+	// Trying to submit.
 	// client/q_shared.h
 
 	// can accelerate and turn
